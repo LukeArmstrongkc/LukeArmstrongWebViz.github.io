@@ -1,0 +1,56 @@
+h1 {
+    color:darkturquoise;
+    text-align: justify;
+    background-color: white;
+}
+
+h3 {
+    margin: 20px;
+    color:darkturquoise;
+    text-align: left;
+    background-color: white;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: white;
+    font-size: 12px;
+    text-align: left;
+}
+
+.logo {
+    font-weight: bold;
+    background-color: darkturquoise;
+    color: white;
+    font-size: 20px;
+}
+
+.navbar-nav {
+    background-color: white;
+    color: darkturquoise;
+    font-size: 20px;  
+}
+.paragraph {
+    background-color: white;
+    font-size: 12px;
+    text-align: left;
+}
+
+row {
+    margin: 20px;
+    font-weight: bold;
+    background-color: white;
+    font-size: 20px;
+}
+.text {
+    background-color: white;
+    font-size: 15px;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.words {
+    color:gray;
+    font-size: 20px;
+}
